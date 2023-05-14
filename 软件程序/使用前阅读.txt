@@ -1,0 +1,6 @@
+开发的语言环境：python3.7.4，Anoconda解析器
+
+开发工具为：Pycharm
+
+需要预安装的第三方库（系统中使用到的）：
+pandas、matplotlib、seaborn、fuzzywuzzy、geopandas、pymysql等
